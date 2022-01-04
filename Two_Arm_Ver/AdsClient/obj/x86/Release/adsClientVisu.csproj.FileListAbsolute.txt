@@ -1,0 +1,8 @@
+C:\Users\RobotControl\Desktop\구호로봇과제\ReliefRobotControl_3DoF_V2_UI(170208)\AdsClient\bin\Release\adsClientVisu.exe.config
+C:\Users\RobotControl\Desktop\구호로봇과제\ReliefRobotControl_3DoF_V2_UI-backup_블루스크린뜸\AdsClient\bin\Release\adsClientVisu.exe.config
+C:\Users\keti\Desktop\SmartController\SmartControllerModule\AdsClient\bin\Release\adsClientVisu.exe.config
+C:\Users\keti\Desktop\SmartController\SmartControllerModule\AdsClient\obj\x86\Release\adsClientVisu.csprojResolveAssemblyReference.cache
+C:\Users\keti\Desktop\SmartController\SmartControllerModule\AdsClient\obj\x86\Release\adsClientVisu.form.resources
+C:\Users\keti\Desktop\SmartController\SmartControllerModule\AdsClient\obj\x86\Release\adsClientVisu.Properties.Resources.resources
+C:\Users\keti\Desktop\SmartController\SmartControllerModule\AdsClient\obj\x86\Release\adsClientVisu.csproj.GenerateResource.Cache
+C:\Users\KETI_LCDM_PC_01\Desktop\SmartController\SmartControllerModule\AdsClient\bin\Release\adsClientVisu.exe.config
